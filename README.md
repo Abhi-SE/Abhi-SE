@@ -1,7 +1,7 @@
 # Federated Learning [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4321561.svg)](https://doi.org/10.5281/zenodo.4321561)
 
 This is partly the reproduction of the paper of [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)   
-Only experiments on MNIST and CIFAR10 (both IID and non-IID) is produced by far.
+Only experiments on MNIST (both IID and non-IID) is produced by far.
 
 Note: The scripts will be slow without the implementation of parallel computing. 
 
