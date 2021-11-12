@@ -20,9 +20,8 @@ For the execution of image classification of Handwritten MNIST data using Federa
   | Client3  | 77.93  | 81.7 |
   | Client4  | 78.75  | 79.11 |
   | Client5  | 78.15  | 78.86 |
-  | Client2  | 77.12  | 80.52 |
  
-  
+ 
   We have found that the accuracy of the model which was trained using federated learning gives accuracy 87.40% while without federated learning the accuracy is around 84%. So federated learning not only provides privacy but also gives more accurate results in a fast manner.
 
 
